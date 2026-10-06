@@ -24,7 +24,7 @@ export const FLAVORS: Flavor[] = [
     name: 'Uramaki de salmão e cream cheese',
     description:
       'Uma camada de gergelim torrado envolve a combinação perfeita de arroz temperado e alga crocante, abraçando o frescor incomparável do nosso salmão selecionado e a cremosidade aveludada do cream cheese.',
-    price: 40,
+    price: 50,
     image: roll1,
   },
   {
@@ -32,7 +32,7 @@ export const FLAVORS: Flavor[] = [
     name: 'Uramaki de Salmão e Manga',
     description:
       'Uma camada de gergelim torrado envolve a combinação perfeita de arroz temperado e alga crocante, abraçando o frescor incomparável do nosso salmão selecionado e a doçura suculenta da manga bem fresca.',
-    price: 40,
+    price: 50,
     image: roll2,
   },
   {
